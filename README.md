@@ -1,1 +1,2 @@
 此项目为两个语音识别demo（语音转文字）
+使用技术为SpeechRecognition API
